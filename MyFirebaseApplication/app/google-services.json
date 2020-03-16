@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311194695162",
+    "firebase_url": "https://poundfirebaseauth.firebaseio.com",
+    "project_id": "poundfirebaseauth",
+    "storage_bucket": "poundfirebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311194695162:android:69424e786a14a829b92043",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311194695162-avdd8d5jfko6q2e7lt4cj7rmfecpmjui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirebaseapplication",
+            "certificate_hash": "c50e8a0b5515cf4b7c93d9d4d11aaf688448ea28"
+          }
+        },
+        {
+          "client_id": "311194695162-586hg21gk3dubtpkcv5mp2352ovifomt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGZbwJcLsnE-pTMqt2adpCOBq7ZptVN_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311194695162-586hg21gk3dubtpkcv5mp2352ovifomt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
